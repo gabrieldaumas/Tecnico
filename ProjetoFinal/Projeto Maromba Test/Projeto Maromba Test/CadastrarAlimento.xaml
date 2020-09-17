@@ -1,0 +1,45 @@
+﻿<Window x:Class="Projeto_Maromba_Test.CadastrarAlimento"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="CadastrarAlimento" Height="459.414" Width="690.377">
+    <Grid>
+        <Label x:Name="NomeAlimentoLabel" Content="Nome do Alimento" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2"/>
+        <TextBox x:Name="NomeAlimentoText" HorizontalAlignment="Left" Height="23" Margin="10,41,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" Grid.ColumnSpan="2"/>
+        <Label x:Name="CaloriasLabel" Content="Calorias" HorizontalAlignment="Left" Margin="10,88,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.457,-0.511"/>
+        <TextBox x:Name="CaloriasText" HorizontalAlignment="Left" Height="23" Margin="10,114,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" Grid.ColumnSpan="2"/>
+        <Label x:Name="ProteinasLabel" Content="Proteínas" HorizontalAlignment="Left" Margin="10,142,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.457,-0.511"/>
+        <TextBox x:Name="ProteinasText" HorizontalAlignment="Left" Height="23" Margin="10,168,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" Grid.ColumnSpan="2"/>
+        <TextBox x:Name="CarboidratosText" HorizontalAlignment="Left" Height="23" Margin="10,227,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" Grid.ColumnSpan="2"/>
+        <Label x:Name="CarboidratosLabel" Content="Carboidratos" HorizontalAlignment="Left" Margin="10,196,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.457,-0.511"/>
+        <Label x:Name="FibraLabel" Content="Fibra" HorizontalAlignment="Left" Margin="10,255,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.457,-0.511"/>
+        <TextBox x:Name="FibraText" HorizontalAlignment="Left" Height="23" Margin="10,281,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" Grid.ColumnSpan="2"/>
+        <Label x:Name="AcucaresLabel" Content="Açúcares" HorizontalAlignment="Left" Margin="162,88,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.457,-0.511"/>
+        <TextBox x:Name="AcucaresText" HorizontalAlignment="Left" Height="23" Margin="162,114,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="GordurasLabel" Content="Gorduras" HorizontalAlignment="Left" Margin="162,142,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.457,-0.511"/>
+        <TextBox x:Name="GordurasText" HorizontalAlignment="Left" Height="23" Margin="162,168,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="SaturadaLabel" Content="Saturada" HorizontalAlignment="Left" Margin="162,196,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.457,-0.511"/>
+        <TextBox x:Name="SaturadaText" HorizontalAlignment="Left" Height="23" Margin="162,227,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="PoliinsaturadaLabel" Content="Poliinsaturada" HorizontalAlignment="Left" Margin="162,255,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.457,-0.511"/>
+        <TextBox x:Name="PoliinsaturadaText" HorizontalAlignment="Left" Height="23" Margin="162,281,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="MonoinsaturadoLabel" Content="Monoinsaturado" HorizontalAlignment="Left" Margin="321,88,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.457,-0.511"/>
+        <TextBox x:Name="MonoinsaturadoText" HorizontalAlignment="Left" Height="23" Margin="322,114,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="TransLabel" Content="Trans" HorizontalAlignment="Left" Margin="322,142,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.457,-0.511"/>
+        <TextBox x:Name="TransText" HorizontalAlignment="Left" Height="23" Margin="322,168,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="ColesterolLabel" Content="Colesterol" HorizontalAlignment="Left" Margin="322,196,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.457,-0.511"/>
+        <TextBox x:Name="ColesterolText" HorizontalAlignment="Left" Height="23" Margin="322,227,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="SodioLabel" Content="Sódio" HorizontalAlignment="Left" Margin="322,255,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.457,-0.511"/>
+        <TextBox x:Name="SodioText" HorizontalAlignment="Left" Height="23" Margin="322,281,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="PotassioLabel" Content="Potássio" HorizontalAlignment="Left" Margin="484,87,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.457,-0.511"/>
+        <TextBox x:Name="PotassioText" HorizontalAlignment="Left" Height="23" Margin="484,113,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="VitaminaALabel" Content="Vitamina A" HorizontalAlignment="Left" Margin="484,141,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.457,-0.511"/>
+        <TextBox x:Name="VitaminaAText" HorizontalAlignment="Left" Height="23" Margin="484,172,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="VitaminaCLabel" Content="Vitamina C" HorizontalAlignment="Left" Margin="484,200,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.457,-0.511"/>
+        <TextBox x:Name="VitaminaCText" HorizontalAlignment="Left" Height="23" Margin="484,231,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="CalcioLabel" Content="Cálcio" HorizontalAlignment="Left" Margin="484,259,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.457,-0.511"/>
+        <TextBox x:Name="CalcioText" HorizontalAlignment="Left" Height="23" Margin="484,290,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="FerroLabel" Content="Ferro" HorizontalAlignment="Left" Margin="10,310,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.457,-0.511"/>
+        <TextBox x:Name="FerroText" HorizontalAlignment="Left" Height="23" Margin="10,336,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <Button Content="Salvar Alimento" HorizontalAlignment="Left" Margin="283,365,0,0" VerticalAlignment="Top" Width="119"/>
+
+    </Grid>
+</Window>
