@@ -1,0 +1,235 @@
+C:\Users\suporte\Pictures\Jogo Estágio\Jogo\Jogo\bin\Debug\Jogo.exe.config
+C:\Users\suporte\Pictures\Jogo Estágio\Jogo\Jogo\bin\Debug\Jogo.exe
+C:\Users\suporte\Pictures\Jogo Estágio\Jogo\Jogo\bin\Debug\Jogo.pdb
+C:\Users\suporte\Pictures\Jogo Estágio\Jogo\Jogo\bin\Debug\MySql.Data.dll
+C:\Users\suporte\Pictures\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.Form1.resources
+C:\Users\suporte\Pictures\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.Menu.resources
+C:\Users\suporte\Pictures\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.Properties.Resources.resources
+C:\Users\suporte\Pictures\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.csproj.GenerateResource.Cache
+C:\Users\suporte\Pictures\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.exe
+C:\Users\suporte\Pictures\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.pdb
+D:\Projetos\CP2\Jogo Estágio\Jogo\Jogo\bin\Debug\Jogo.exe.config
+D:\Projetos\CP2\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.exe
+D:\Projetos\CP2\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.pdb
+D:\Projetos\CP2\Jogo Estágio\Jogo\Jogo\bin\Debug\Jogo.exe
+D:\Projetos\CP2\Jogo Estágio\Jogo\Jogo\bin\Debug\Jogo.pdb
+D:\Projetos\CP2\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.csprojResolveAssemblyReference.cache
+D:\Projetos\CP2\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.Form1.resources
+D:\Projetos\CP2\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.Menu.resources
+D:\Projetos\CP2\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.Properties.Resources.resources
+D:\Projetos\CP2\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.csproj.GenerateResource.Cache
+C:\Users\suporte\Desktop\Jogo Estágio\Jogo\Jogo\bin\Debug\Jogo.exe.config
+C:\Users\suporte\Desktop\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.exe
+C:\Users\suporte\Desktop\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.pdb
+C:\Users\suporte\Desktop\Jogo Estágio\Jogo\Jogo\bin\Debug\Jogo.exe
+C:\Users\suporte\Desktop\Jogo Estágio\Jogo\Jogo\bin\Debug\Jogo.pdb
+C:\Users\suporte\Desktop\Jogo Estágio\Jogo\Jogo\bin\Debug\MySql.Data.dll
+C:\Users\suporte\Desktop\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.csprojResolveAssemblyReference.cache
+C:\Users\suporte\Desktop\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.Menu.resources
+C:\Users\suporte\Desktop\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.Properties.Resources.resources
+C:\Users\suporte\Desktop\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.csproj.GenerateResource.Cache
+C:\Users\suporte\Desktop\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.Fase1.resources
+C:\Users\suporte\Desktop\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.Fase2.resources
+C:\Users\suporte\Desktop\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.Fase3.resources
+C:\Users\suporte\Desktop\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.Placar.resources
+C:\Users\suporte\Desktop\Jogo Estágio\Jogo\Jogo\obj\Debug\Interop.WMPLib.dll
+C:\Users\suporte\Desktop\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.csproj.ResolveComReference.cache
+C:\Users\x\Desktop\Jogo Estágio\Jogo\Jogo\bin\Debug\Jogo.exe
+C:\Users\x\Desktop\Jogo Estágio\Jogo\Jogo\bin\Debug\Jogo.exe.config
+C:\Users\x\Desktop\Jogo Estágio\Jogo\Jogo\obj\Debug\Interop.WMPLib.dll
+C:\Users\x\Desktop\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.csproj.ResolveComReference.cache
+C:\Users\x\Desktop\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.Fase2.resources
+C:\Users\x\Desktop\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.Fase3.resources
+C:\Users\x\Desktop\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.Menu.resources
+C:\Users\x\Desktop\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.Placar.resources
+C:\Users\x\Desktop\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.Properties.Resources.resources
+C:\Users\x\Desktop\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.csproj.GenerateResource.Cache
+C:\Users\x\Desktop\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.exe
+C:\Users\x\Desktop\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.pdb
+C:\Users\x\Desktop\Jogo Estágio\Jogo\Jogo\bin\Debug\Jogo.pdb
+C:\Users\x\Desktop\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.csprojResolveAssemblyReference.cache
+C:\Users\x\Desktop\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.Fase1.resources
+C:\Users\Pegasus\Downloads\Jogo Estágio-20160915T141349Z\Jogo Estágio\Jogo\Jogo\bin\Debug\Jogo.exe.config
+C:\Users\Pegasus\Downloads\Jogo Estágio-20160915T141349Z\Jogo Estágio\Jogo\Jogo\bin\Debug\Jogo.exe
+C:\Users\Pegasus\Downloads\Jogo Estágio-20160915T141349Z\Jogo Estágio\Jogo\Jogo\bin\Debug\Jogo.pdb
+C:\Users\Pegasus\Downloads\Jogo Estágio-20160915T141349Z\Jogo Estágio\Jogo\Jogo\obj\Debug\Interop.WMPLib.dll
+C:\Users\Pegasus\Downloads\Jogo Estágio-20160915T141349Z\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.csproj.ResolveComReference.cache
+C:\Users\Pegasus\Downloads\Jogo Estágio-20160915T141349Z\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.Fase1.resources
+C:\Users\Pegasus\Downloads\Jogo Estágio-20160915T141349Z\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.Fase2.resources
+C:\Users\Pegasus\Downloads\Jogo Estágio-20160915T141349Z\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.Fase3.resources
+C:\Users\Pegasus\Downloads\Jogo Estágio-20160915T141349Z\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.Menu.resources
+C:\Users\Pegasus\Downloads\Jogo Estágio-20160915T141349Z\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.Placar.resources
+C:\Users\Pegasus\Downloads\Jogo Estágio-20160915T141349Z\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.Properties.Resources.resources
+C:\Users\Pegasus\Downloads\Jogo Estágio-20160915T141349Z\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.csproj.GenerateResource.Cache
+C:\Users\Pegasus\Downloads\Jogo Estágio-20160915T141349Z\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.exe
+C:\Users\Pegasus\Downloads\Jogo Estágio-20160915T141349Z\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.pdb
+C:\Users\Pegasus\Downloads\Jogo Estágio-20160915T141349Z\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.csprojResolveAssemblyReference.cache
+C:\Users\suporte\Downloads\estágio certo\estágio\Jogo Estágio\Jogo\Jogo\bin\Debug\Jogo.exe
+C:\Users\suporte\Downloads\estágio certo\estágio\Jogo Estágio\Jogo\Jogo\bin\Debug\Jogo.exe.config
+C:\Users\suporte\Downloads\estágio certo\estágio\Jogo Estágio\Jogo\Jogo\obj\Debug\Interop.WMPLib.dll
+C:\Users\suporte\Downloads\estágio certo\estágio\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.csproj.ResolveComReference.cache
+C:\Users\suporte\Downloads\estágio certo\estágio\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.Fase1.resources
+C:\Users\suporte\Downloads\estágio certo\estágio\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.Fase2.resources
+C:\Users\suporte\Downloads\estágio certo\estágio\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.Fase3.resources
+C:\Users\suporte\Downloads\estágio certo\estágio\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.Menu.resources
+C:\Users\suporte\Downloads\estágio certo\estágio\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.Placar.resources
+C:\Users\suporte\Downloads\estágio certo\estágio\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.Properties.Resources.resources
+C:\Users\suporte\Downloads\estágio certo\estágio\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.csproj.GenerateResource.Cache
+C:\Users\suporte\Downloads\estágio certo\estágio\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.exe
+C:\Users\suporte\Downloads\estágio certo\estágio\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.pdb
+C:\Users\suporte\Downloads\estágio certo\estágio\Jogo Estágio\Jogo\Jogo\bin\Debug\Jogo.pdb
+C:\Users\suporte\Downloads\estágio certo\estágio\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.csprojResolveAssemblyReference.cache
+D:\Projetos\CP2\Jogo Estágio\Versão 3\estágio\Jogo Estágio\Jogo\Jogo\bin\Debug\Jogo.exe.config
+D:\Projetos\CP2\Jogo Estágio\Versão 3\estágio\Jogo Estágio\Jogo\Jogo\obj\Debug\Interop.WMPLib.dll
+D:\Projetos\CP2\Jogo Estágio\Versão 3\estágio\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.csproj.ResolveComReference.cache
+D:\Projetos\CP2\Jogo Estágio\Versão 3\estágio\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.exe
+D:\Projetos\CP2\Jogo Estágio\Versão 3\estágio\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.pdb
+D:\Projetos\CP2\Jogo Estágio\Versão 3\estágio\Jogo Estágio\Jogo\Jogo\bin\Debug\Jogo.exe
+D:\Projetos\CP2\Jogo Estágio\Versão 3\estágio\Jogo Estágio\Jogo\Jogo\bin\Debug\Jogo.pdb
+D:\Projetos\CP2\Jogo Estágio\Versão 3\estágio\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.csprojResolveAssemblyReference.cache
+D:\Projetos\CP2\Jogo Estágio\Versão 3\estágio\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.Fase1.resources
+D:\Projetos\CP2\Jogo Estágio\Versão 3\estágio\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.Fase2.resources
+D:\Projetos\CP2\Jogo Estágio\Versão 3\estágio\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.Fase3.resources
+D:\Projetos\CP2\Jogo Estágio\Versão 3\estágio\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.Menu.resources
+D:\Projetos\CP2\Jogo Estágio\Versão 3\estágio\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.Placar.resources
+D:\Projetos\CP2\Jogo Estágio\Versão 3\estágio\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.Properties.Resources.resources
+D:\Projetos\CP2\Jogo Estágio\Versão 3\estágio\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.csproj.GenerateResource.Cache
+I:\Jogos\Versão 3\estágio\Jogo Estágio\Jogo\Jogo\bin\Debug\Jogo.exe.config
+I:\Jogos\Versão 3\estágio\Jogo Estágio\Jogo\Jogo\obj\Debug\Interop.WMPLib.dll
+I:\Jogos\Versão 3\estágio\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.csproj.ResolveComReference.cache
+I:\Jogos\Versão 3\estágio\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.exe
+I:\Jogos\Versão 3\estágio\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.pdb
+I:\Jogos\Versão 3\estágio\Jogo Estágio\Jogo\Jogo\bin\Debug\Jogo.exe
+I:\Jogos\Versão 3\estágio\Jogo Estágio\Jogo\Jogo\bin\Debug\Jogo.pdb
+I:\Jogos\Versão 3\estágio\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.csprojResolveAssemblyReference.cache
+I:\Jogos\Versão 3\estágio\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.Fase1.resources
+I:\Jogos\Versão 3\estágio\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.Fase2.resources
+I:\Jogos\Versão 3\estágio\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.Fase3.resources
+I:\Jogos\Versão 3\estágio\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.Menu.resources
+I:\Jogos\Versão 3\estágio\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.Placar.resources
+I:\Jogos\Versão 3\estágio\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.Properties.Resources.resources
+I:\Jogos\Versão 3\estágio\Jogo Estágio\Jogo\Jogo\obj\Debug\Jogo.csproj.GenerateResource.Cache
+C:\Users\suporte\Downloads\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\bin\Debug\Jogo.exe.config
+C:\Users\suporte\Downloads\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Interop.WMPLib.dll
+C:\Users\suporte\Downloads\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.csproj.ResolveComReference.cache
+C:\Users\suporte\Downloads\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.exe
+C:\Users\suporte\Downloads\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.pdb
+C:\Users\suporte\Downloads\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\bin\Debug\Jogo.exe
+C:\Users\suporte\Downloads\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\bin\Debug\Jogo.pdb
+C:\Users\suporte\Downloads\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.csprojResolveAssemblyReference.cache
+C:\Users\suporte\Downloads\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.Fase3.resources
+C:\Users\suporte\Downloads\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.Fase1.resources
+C:\Users\suporte\Downloads\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.Fase2.resources
+C:\Users\suporte\Downloads\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.Menu.resources
+C:\Users\suporte\Downloads\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.Placar.resources
+C:\Users\suporte\Downloads\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.Properties.Resources.resources
+C:\Users\suporte\Downloads\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.csproj.GenerateResource.Cache
+C:\Users\Pegasus\Downloads\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\bin\Debug\Jogo.exe.config
+C:\Users\Pegasus\Downloads\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Interop.WMPLib.dll
+C:\Users\Pegasus\Downloads\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.csproj.ResolveComReference.cache
+C:\Users\Pegasus\Downloads\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.exe
+C:\Users\Pegasus\Downloads\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.pdb
+C:\Users\Pegasus\Downloads\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\bin\Debug\Jogo.exe
+C:\Users\Pegasus\Downloads\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\bin\Debug\Jogo.pdb
+C:\Users\Pegasus\Downloads\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.csprojResolveAssemblyReference.cache
+C:\Users\Pegasus\Downloads\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.Fase3.resources
+C:\Users\Pegasus\Downloads\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.Fase1.resources
+C:\Users\Pegasus\Downloads\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.Fase2.resources
+C:\Users\Pegasus\Downloads\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.Menu.resources
+C:\Users\Pegasus\Downloads\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.Placar.resources
+C:\Users\Pegasus\Downloads\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.Properties.Resources.resources
+C:\Users\Pegasus\Downloads\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.csproj.GenerateResource.Cache
+C:\Users\x\Desktop\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\bin\Debug\Jogo.exe.config
+C:\Users\x\Desktop\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Interop.WMPLib.dll
+C:\Users\x\Desktop\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.csproj.ResolveComReference.cache
+C:\Users\x\Desktop\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.exe
+C:\Users\x\Desktop\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.pdb
+C:\Users\x\Desktop\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\bin\Debug\Jogo.exe
+C:\Users\x\Desktop\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\bin\Debug\Jogo.pdb
+C:\Users\x\Desktop\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.csprojResolveAssemblyReference.cache
+C:\Users\x\Desktop\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.Fase3.resources
+C:\Users\x\Desktop\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.Fase1.resources
+C:\Users\x\Desktop\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.Fase2.resources
+C:\Users\x\Desktop\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.Menu.resources
+C:\Users\x\Desktop\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.Placar.resources
+C:\Users\x\Desktop\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.Properties.Resources.resources
+C:\Users\x\Desktop\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.csproj.GenerateResource.Cache
+C:\Users\Pegasus\Downloads\NUNES JOGO VERSÃO ATÉ O DIA 13-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\bin\Debug\Jogo.exe.config
+C:\Users\Pegasus\Downloads\NUNES JOGO VERSÃO ATÉ O DIA 13-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Interop.WMPLib.dll
+C:\Users\Pegasus\Downloads\NUNES JOGO VERSÃO ATÉ O DIA 13-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.csproj.ResolveComReference.cache
+C:\Users\Pegasus\Downloads\NUNES JOGO VERSÃO ATÉ O DIA 13-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.exe
+C:\Users\Pegasus\Downloads\NUNES JOGO VERSÃO ATÉ O DIA 13-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.pdb
+C:\Users\Pegasus\Downloads\NUNES JOGO VERSÃO ATÉ O DIA 13-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\bin\Debug\Jogo.exe
+C:\Users\Pegasus\Downloads\NUNES JOGO VERSÃO ATÉ O DIA 13-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\bin\Debug\Jogo.pdb
+C:\Users\Pegasus\Downloads\NUNES JOGO VERSÃO ATÉ O DIA 13-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.csprojResolveAssemblyReference.cache
+C:\Users\Pegasus\Downloads\NUNES JOGO VERSÃO ATÉ O DIA 13-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.Fase3.resources
+C:\Users\Pegasus\Downloads\NUNES JOGO VERSÃO ATÉ O DIA 13-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.Fase1.resources
+C:\Users\Pegasus\Downloads\NUNES JOGO VERSÃO ATÉ O DIA 13-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.Fase2.resources
+C:\Users\Pegasus\Downloads\NUNES JOGO VERSÃO ATÉ O DIA 13-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.Menu.resources
+C:\Users\Pegasus\Downloads\NUNES JOGO VERSÃO ATÉ O DIA 13-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.Placar.resources
+C:\Users\Pegasus\Downloads\NUNES JOGO VERSÃO ATÉ O DIA 13-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.Properties.Resources.resources
+C:\Users\Pegasus\Downloads\NUNES JOGO VERSÃO ATÉ O DIA 13-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.csproj.GenerateResource.Cache
+C:\Users\Pegasus\Downloads\NUNES JOGO VERSÃO ATÉ O DIA 13-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.Menu2.resources
+C:\Users\x\Desktop\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\bin\Debug\Jogo.exe.config
+C:\Users\x\Desktop\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Interop.WMPLib.dll
+C:\Users\x\Desktop\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.csproj.ResolveComReference.cache
+C:\Users\x\Desktop\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.exe
+C:\Users\x\Desktop\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.pdb
+C:\Users\x\Desktop\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\bin\Debug\Jogo.exe
+C:\Users\x\Desktop\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\bin\Debug\Jogo.pdb
+C:\Users\x\Desktop\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.csprojResolveAssemblyReference.cache
+C:\Users\x\Desktop\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.Fase3.resources
+C:\Users\x\Desktop\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.Fase1.resources
+C:\Users\x\Desktop\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.Fase2.resources
+C:\Users\x\Desktop\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.Menu2.resources
+C:\Users\x\Desktop\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.Menu.resources
+C:\Users\x\Desktop\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.Placar.resources
+C:\Users\x\Desktop\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.Properties.Resources.resources
+C:\Users\x\Desktop\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.csproj.GenerateResource.Cache
+C:\Users\x\Desktop\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.Form1.resources
+C:\Users\x\Desktop\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.Secret.resources
+C:\Users\x\Desktop\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.AdicionarTema.resources
+C:\Users\x\Desktop\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.AdicionarPalavra.resources
+C:\Users\x\Desktop\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.AdicionarFrase.resources
+C:\Users\Pegasus\Downloads\Jogo Estágio 19-11\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\bin\Debug\Jogo.exe.config
+C:\Users\Pegasus\Downloads\Jogo Estágio 19-11\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Interop.WMPLib.dll
+C:\Users\Pegasus\Downloads\Jogo Estágio 19-11\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.csproj.ResolveComReference.cache
+C:\Users\Pegasus\Downloads\Jogo Estágio 19-11\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.exe
+C:\Users\Pegasus\Downloads\Jogo Estágio 19-11\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.pdb
+C:\Users\Pegasus\Downloads\Jogo Estágio 19-11\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\bin\Debug\Jogo.exe
+C:\Users\Pegasus\Downloads\Jogo Estágio 19-11\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\bin\Debug\Jogo.pdb
+C:\Users\Pegasus\Downloads\Jogo Estágio 19-11\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.csprojResolveAssemblyReference.cache
+C:\Users\Pegasus\Downloads\Jogo Estágio 19-11\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.Fase3.resources
+C:\Users\Pegasus\Downloads\Jogo Estágio 19-11\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.Fase1.resources
+C:\Users\Pegasus\Downloads\Jogo Estágio 19-11\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.Fase2.resources
+C:\Users\Pegasus\Downloads\Jogo Estágio 19-11\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.AdicionarTema.resources
+C:\Users\Pegasus\Downloads\Jogo Estágio 19-11\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.AdicionarPalavra.resources
+C:\Users\Pegasus\Downloads\Jogo Estágio 19-11\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.AdicionarFrase.resources
+C:\Users\Pegasus\Downloads\Jogo Estágio 19-11\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.Secret.resources
+C:\Users\Pegasus\Downloads\Jogo Estágio 19-11\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.Menu2.resources
+C:\Users\Pegasus\Downloads\Jogo Estágio 19-11\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.Menu.resources
+C:\Users\Pegasus\Downloads\Jogo Estágio 19-11\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.Placar.resources
+C:\Users\Pegasus\Downloads\Jogo Estágio 19-11\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.Properties.Resources.resources
+C:\Users\Pegasus\Downloads\Jogo Estágio 19-11\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.csproj.GenerateResource.Cache
+C:\Users\Pegasus\Downloads\Jogo Estágio 19-11\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.Dados.resources
+C:\Users\GABRIEL\Desktop\Jogo Estágio 19-11\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\bin\Debug\Jogo.exe.config
+C:\Users\GABRIEL\Desktop\Jogo Estágio 19-11\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\bin\Debug\Jogo.exe
+C:\Users\GABRIEL\Desktop\Jogo Estágio 19-11\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\bin\Debug\Jogo.pdb
+C:\Users\GABRIEL\Desktop\Jogo Estágio 19-11\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.csprojResolveAssemblyReference.cache
+C:\Users\GABRIEL\Desktop\Jogo Estágio 19-11\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Interop.WMPLib.dll
+C:\Users\GABRIEL\Desktop\Jogo Estágio 19-11\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.csproj.ResolveComReference.cache
+C:\Users\GABRIEL\Desktop\Jogo Estágio 19-11\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.Fase3.resources
+C:\Users\GABRIEL\Desktop\Jogo Estágio 19-11\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.Fase1.resources
+C:\Users\GABRIEL\Desktop\Jogo Estágio 19-11\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.Fase2.resources
+C:\Users\GABRIEL\Desktop\Jogo Estágio 19-11\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.Dados.resources
+C:\Users\GABRIEL\Desktop\Jogo Estágio 19-11\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.AdicionarTema.resources
+C:\Users\GABRIEL\Desktop\Jogo Estágio 19-11\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.AdicionarPalavra.resources
+C:\Users\GABRIEL\Desktop\Jogo Estágio 19-11\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.AdicionarFrase.resources
+C:\Users\GABRIEL\Desktop\Jogo Estágio 19-11\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.Secret.resources
+C:\Users\GABRIEL\Desktop\Jogo Estágio 19-11\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.Menu2.resources
+C:\Users\GABRIEL\Desktop\Jogo Estágio 19-11\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.Menu.resources
+C:\Users\GABRIEL\Desktop\Jogo Estágio 19-11\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.Placar.resources
+C:\Users\GABRIEL\Desktop\Jogo Estágio 19-11\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.Properties.Resources.resources
+C:\Users\GABRIEL\Desktop\Jogo Estágio 19-11\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.csproj.GenerateResource.Cache
+C:\Users\GABRIEL\Desktop\Jogo Estágio 19-11\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.exe
+C:\Users\GABRIEL\Desktop\Jogo Estágio 19-11\Jogo Estágio 19-11\Versão 3\Versão 3\Vers+úo 3\est+ígio\Jogo Est+ígio\Jogo\Jogo\obj\Debug\Jogo.pdb

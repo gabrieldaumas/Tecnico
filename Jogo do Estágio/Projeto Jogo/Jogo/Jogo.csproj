@@ -1,0 +1,281 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{827A9727-E45F-4443-BEAE-5652FAEC88FA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Jogo</RootNamespace>
+    <AssemblyName>Jogo</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=6.2.1.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Downloads\MySql.Data\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Fase3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fase3.Designer.cs">
+      <DependentUpon>Fase3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fase1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fase1.Designer.cs">
+      <DependentUpon>Fase1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fase2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fase2.Designer.cs">
+      <DependentUpon>Fase2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dados.Designer.cs">
+      <DependentUpon>Dados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdicionarTema.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdicionarTema.Designer.cs">
+      <DependentUpon>AdicionarTema.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdicionarPalavra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdicionarPalavra.Designer.cs">
+      <DependentUpon>AdicionarPalavra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdicionarFrase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdicionarFrase.Designer.cs">
+      <DependentUpon>AdicionarFrase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Secret.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Secret.Designer.cs">
+      <DependentUpon>Secret.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu2.Designer.cs">
+      <DependentUpon>Menu2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Placar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Placar.Designer.cs">
+      <DependentUpon>Placar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Fase3.resx">
+      <DependentUpon>Fase3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fase1.resx">
+      <DependentUpon>Fase1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fase2.resx">
+      <DependentUpon>Fase2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dados.resx">
+      <DependentUpon>Dados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdicionarTema.resx">
+      <DependentUpon>AdicionarTema.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdicionarPalavra.resx">
+      <DependentUpon>AdicionarPalavra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdicionarFrase.resx">
+      <DependentUpon>AdicionarFrase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Secret.resx">
+      <DependentUpon>Secret.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu2.resx">
+      <DependentUpon>Menu2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Placar.resx">
+      <DependentUpon>Placar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GERALDO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Imagem\Pontos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\floresta.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\floresta2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\floresta2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\western1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\title.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sunrise-desert-cactus-vector-illustration.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\start.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\start1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\X.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Oceano.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Oceano.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tente Novamente-3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Nome.png" />
+    <None Include="Resources\Voltar_ao_Menu.png" />
+    <None Include="bin\Debug\Imgs\Próxima Fase-3.png" />
+    <None Include="Resources\Fechar.png" />
+    <Content Include="Resources\Líderes.png" />
+    <None Include="Resources\Próxima Fase-2.png" />
+    <None Include="Resources\Próxima Fase-1.png" />
+    <None Include="Resources\Tente Novamente-1.png" />
+    <None Include="Resources\Tente Novamente-2.png" />
+    <None Include="Resources\Wild_West_Drop.jpg" />
+    <None Include="Resources\Medalha de Prata.png" />
+    <None Include="Resources\Medalha de Ouro.png" />
+    <None Include="Resources\Medalha de Bronze.png" />
+    <None Include="Resources\Líderes1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
